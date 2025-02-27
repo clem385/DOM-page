@@ -35,7 +35,7 @@ The project is a simple web application that change background,dynamically,in ab
 
 1. Clone the repository:
 
-git clone  https://essentialcodes573.github.io/funds/
+git clone  [DOM Project](https://github.com/clem385/DOM-page.git)
 
 2. Navigate to the project directory:
 cd background-color-generator
@@ -47,7 +47,7 @@ cd background-color-generator
 The project is deployed on render, a platform known for its fast and easy
 deployment of web applications.
 
-Live Demo:
+Live Demo:[Background Generator App](https://dom-page.onrender.com)
 
 ## License
 
